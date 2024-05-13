@@ -1,0 +1,29 @@
+{
+  "name": "lla-utility",
+  "version": "1.0.0",
+  "description": "lla-utility é um pacote de funções utilitárias para utilizar em javascript e typescript.",
+  "main": "./dist/index.js",
+  "types": "./dist/types/declation.d.ts",
+  "scripts": {
+    "test": "node echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLessaAnacleto/react-utility.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "utils"
+  ],
+  "author": "LucasLessaAnacleto",
+  "license": "ISC",
+  "homepage": "https://github.com/LucasLessaAnacleto/react-utility#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
