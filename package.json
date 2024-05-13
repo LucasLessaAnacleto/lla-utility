@@ -7,6 +7,15 @@
   "scripts": {
     "test": "node echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "dist/",
+    "package.json"
+  ],
+  "exports": {
+    ".": "./dist/index.js",
+    "./react": "./dist/react/react-utils.js",
+    "./package.json": "./package.json"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LucasLessaAnacleto/lla-utility.git"
