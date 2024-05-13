@@ -1,6 +1,6 @@
 {
   "name": "lla-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lla-utility é um pacote de funções utilitárias para utilizar em javascript e typescript.",
   "main": "./dist/index.js",
   "types": "./dist/types/declation.d.ts",

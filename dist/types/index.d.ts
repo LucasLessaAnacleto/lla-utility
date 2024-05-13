@@ -1,2 +1,1 @@
-export * from './utils';
-export * from './react/react-utils';
+export declare function formatDateAgo(date: any): string;
